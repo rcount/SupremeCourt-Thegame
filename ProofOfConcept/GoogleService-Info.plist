@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>999996832546-09staaf23fgsl6ccjf41mvoas9hjr0eb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.999996832546-09staaf23fgsl6ccjf41mvoas9hjr0eb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCXTniqAkEDmUW0C3GBqi6i0-Uz8Zc7vc4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>999996832546</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nwaccposs2017APP.SupremeCourtTheGame</string>
+	<key>PROJECT_ID</key>
+	<string>supremecourtthegame</string>
+	<key>STORAGE_BUCKET</key>
+	<string>supremecourtthegame.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<false/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:999996832546:ios:0a71147c9e197720</string>
+	<key>DATABASE_URL</key>
+	<string>https://supremecourtthegame.firebaseio.com</string>
+</dict>
+</plist>

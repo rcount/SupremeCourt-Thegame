@@ -1,0 +1,10 @@
+framework module SVLog {
+  umbrella header "SVLog.h"
+
+  export *
+  module * { export * }
+}
+
+module SVLog.Swift {
+    header "SVLog-Swift.h"
+}
